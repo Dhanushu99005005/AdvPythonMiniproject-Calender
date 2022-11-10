@@ -20,7 +20,7 @@ It output the automated calendar by extracting the relevant information from the
 Calendar automation takes input excel sheet from the user and it extracts data from input excel sheet. 
 Based on the requirement it generates two output excel sheets:
 1. Faculty calendar
-2. Master calendar
+2. Master calendar 
 
 ## SWOT ANALYSIS:
 ![swotAnalysis](https://github.com/GENESIS2021Q1/AdvPythonMiniproject-team-15/blob/main/1_Requirements/swotAnalysis.png)
