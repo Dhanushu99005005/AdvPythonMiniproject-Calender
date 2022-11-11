@@ -6,7 +6,7 @@
 - Calendar Automation is a Python scheduling automation system based on the OpenPyXl module for scheduling.
 - It generates two calendars based on the Input file, it might be Genesis sheet or Step In sheet. They are:
 1. Faculty calendar
-2. Master calendar
+2. Master calendar for check
 
 ### Folder Structure
 Folder             | Description
